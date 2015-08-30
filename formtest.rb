@@ -12,4 +12,4 @@ form.email = 'dewet@blomerus.org'
 form.city = 'Cape Town'
 form.message = "I am a computer so I will not be having children until 2030 at the earliest"
 page = form.submit
-puts page.body
+# puts page.body
